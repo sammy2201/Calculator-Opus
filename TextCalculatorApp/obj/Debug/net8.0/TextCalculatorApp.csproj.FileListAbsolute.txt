@@ -1,0 +1,14 @@
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/bin/Debug/net8.0/TextCalculatorApp
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/bin/Debug/net8.0/TextCalculatorApp.deps.json
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/bin/Debug/net8.0/TextCalculatorApp.runtimeconfig.json
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/bin/Debug/net8.0/TextCalculatorApp.dll
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/bin/Debug/net8.0/TextCalculatorApp.pdb
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.AssemblyInfoInputs.cache
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.AssemblyInfo.cs
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.csproj.CoreCompileInputs.cache
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.dll
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/refint/TextCalculatorApp.dll
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.pdb
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/TextCalculatorApp.genruntimeconfig.cache
+/Users/sanmaythota/Desktop/TextCalculatorApp/TextCalculatorApp/obj/Debug/net8.0/ref/TextCalculatorApp.dll
